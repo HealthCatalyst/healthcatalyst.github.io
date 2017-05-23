@@ -14,7 +14,7 @@ Fabric is a set of micro-services for healthcare.  You can pick and choose only 
 [Fabric.MachineLearning](https://github.com/HealthCatalyst/Fabric.MachineLearning)
 
 #### I need to render HTML inside an EHR workspace
-[Fabric.EHR](https://github.com/HealthCatalyst/Fabric.EHR)
+[Fabric.EHR](https://github.com/HealthCatalyst/Fabric.EHR) and 
 [Fabric.TestEHR](https://github.com/HealthCatalyst/Fabric.TestEHR)
 
 #### I need a data service that speaks FHIR
